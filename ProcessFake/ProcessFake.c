@@ -1,7 +1,7 @@
 #include "ProcessFake.h"
 
 /**
- * 	获取SeAuditProcessCreationInfo偏移
+ * 获取SeAuditProcessCreationInfo偏移
  */
 ULONG GetLocateProcessImageNameOffset()
 {
